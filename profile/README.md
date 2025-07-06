@@ -1,7 +1,8 @@
 # CoderBot Ltd.
 STRATEGIC TECH PARTNER FOR SMEs
 
-EXPERT GUIDANCE AND DEVELOPMENT FOR YOUR BIG IDEA.
+
+Expert Guidance and Development for Your Big Idea
 
 - Providing software services to SMEs and Startups.
 - Developing our own software products to people.
