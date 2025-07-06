@@ -2,7 +2,7 @@
 STRATEGIC TECH PARTNER FOR SMEs
 
 
-Expert Guidance and Development for Your Big Idea
+Expert Guidance and Development for Your Big Idea.
 
 - Providing software services to SMEs and Startups.
 - Developing our own software products to people.
