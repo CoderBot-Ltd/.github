@@ -1,6 +1,5 @@
-# CoderBot Ltd.
-**Strategic Technology Partner for SMEs**
-<br /><br />
+![Local Image](./banner.png)
+
 Expert Engineering for Your Boldest Ideas.
 <br /><br />
 • **Strategic Software Partner:** Custom engineering for SMEs and high-growth startups.
