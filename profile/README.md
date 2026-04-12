@@ -1,10 +1,10 @@
 # CoderBot Ltd.
-STRATEGIC TECHNOLOGY PARTNER FOR SMEs
-<br /><br /><br />
-Expert Guidance And Engineering For Your Big Idea.
+**Strategic Technology Partner for SMEs**
 <br /><br />
-• Providing software services to SMEs and Startups.
+Expert Engineering for Your Boldest Ideas.
+<br /><br />
+• **Strategic Software Partner:** Custom engineering for SMEs and high-growth startups.
 <br />
-• Building our own software products for people.
+• **Product Innovation:** Building proprietary solutions that redefine user experience.
 <br /><br />
-Our mission is to apply technology to all possible fields in our life to be easier and get maximum value.
+**Our Mission:** To empower businesses with high-impact technology that bridges the gap between ambitious ideas and market-ready reality.
